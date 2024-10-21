@@ -1,6 +1,7 @@
-# 💻 Data Analyst & Business Intelligence Professional
+<h1 align="center">Hi 👋 I'm Asima Jena</h1>
+<h1 align="center">💻 Data Analyst & Business Intelligence Professional</h1>
 
-Welcome to my GitHub! I'm a *Data Analyst* with a strong background in *Data Science, Business Intelligence, and Analytics*. My expertise spans across multiple programming languages, data manipulation tools, and cloud platforms. I am passionate about transforming raw data into meaningful insights and actionable solutions.
+Welcome to my GitHub! I'm a dedicated **Data Analyst** with a solid foundation in **Data Science, Business Intelligence,** and **Analytics**.Skilled in **data visualization, machine learning,** and **cloud platforms** like **AWS** and **Azure**. I thrive on turning complex data into valuable insights and delivering actionable business solutions.
 
 ---
 
