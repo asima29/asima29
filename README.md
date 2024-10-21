@@ -11,6 +11,7 @@ Welcome to my GitHub! I'm a *Data Analyst* with a strong background in *Data Sci
 - *R* 
 - *Core Java*
 - *SQL*
+  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge) ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
 ### 📊 *Data Visualization & Business Intelligence Tools*
