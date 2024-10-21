@@ -1,7 +1,5 @@
 # 💻 Data Analyst & Business Intelligence Professional
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/179628861?s=400&u=386582d88be0275072c06261a4f5888972f29002&v=4&label=Profile%20views&color=0e75b6&style=flat" alt="asima29" /> </p>
-
 Welcome to my GitHub! I'm a *Data Analyst* with a strong background in *Data Science, Business Intelligence, and Analytics*. My expertise spans across multiple programming languages, data manipulation tools, and cloud platforms. I am passionate about transforming raw data into meaningful insights and actionable solutions.
 
 ---
