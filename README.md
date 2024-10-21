@@ -58,10 +58,10 @@ Welcome to my GitHub! I'm a dedicated **Data Analyst** with a solid foundation i
 ## 📈 *Projects*
 Here are some of my recent data analysis, machine learning, and business intelligence projects:
 
-1. *Network Traffic Analysis and Visualization for Intrusion Detection (Python [pandas,matplotlib,scikit-learn],SQL,Tableau,Machine Learning)*  
+1. **Network Traffic Analysis and Visualization for Intrusion Detection (Python [pandas,matplotlib,scikit-learn],SQL,Tableau,Machine Learning)**  
    A comprehensive sales dashboard with real-time data updates and insightful KPIs using Power BI.
 
-2. *Financial Data Analysis (Alteryx & Tableau)*  
+2. **Financial Data Analysis (Alteryx & Tableau)** 
    _Data preparation and visualization of financial data using Alteryx for ETL and Tableau for visual insights.
 ## 📧 *Connect with me on*
 
